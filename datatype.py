@@ -24,5 +24,9 @@ dict= {
     "age": 24,
     "work":"employeed"
 };
-print(dict);
+print(dict("name"));
+
+print(dict('age'));
+
+
 
